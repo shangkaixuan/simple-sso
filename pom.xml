@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<properties>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<servlet.version>3.1.0</servlet.version>
 		<spring.version>4.3.10.RELEASE</spring.version>
 		<freemarker.version>2.3.23</freemarker.version>
